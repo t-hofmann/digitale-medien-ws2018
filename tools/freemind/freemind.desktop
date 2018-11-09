@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=FreeMind
+Comment=FreeMind Mindmapping Software
+GenericName=freemind-1.0.1
+Exec=/opt/freemind/freemind.sh %u
+Icon=/opt/freemind/freemind.ico
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Multimedia;Utility;
+
