@@ -1,2 +1,3 @@
-# digitale-medien-ws2018
+# Vorlesung: Digitale Medien - Wintersemester 2018
+## Webtechnologien
 tools and examples
