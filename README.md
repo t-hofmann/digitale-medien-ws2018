@@ -4,10 +4,13 @@
 - Doku
 - Tools
 
-### Initial Cloning of this Repository
-Since submodules are used, please do the following after cloning this repository:
+### Initial Clone
+Damit auch die eingesetzten Submodule geklont werden: 
+
 $> git submodule init
+
 $> git submodule update
 
-or clone and retrieve submodule all in once:
+oder in einem Schritt:
+
 $> git clone --recurse-submodules REPOSITORY
