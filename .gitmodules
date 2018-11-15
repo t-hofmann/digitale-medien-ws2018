@@ -3,4 +3,4 @@
 	url = https://github.com/kamranahmedse/developer-roadmap.git
 [submodule "documentation/web-technologien"]
 	path = documentation/web-technologien
-	url = git@github.com:t-hofmann/web-technologien.git
+	url = https://github.com/t-hofmann/web-technologien.git
