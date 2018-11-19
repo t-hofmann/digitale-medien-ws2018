@@ -29,6 +29,8 @@ fi
 
 echo "unzipping $DOWNLOADED_FILE to $INSTALL_DIR"
 sudo unzip $DOWNLOADED_FILE -d $INSTALL_DIR
+echo "making freemind.sh executable"
+sudo chmod a+x $INSTALL_DIR/freemind.sh
 
 echo "copying freemind.ico to $INSTALL_DIR/."
 sudo cp freemind.ico $INSTALL_DIR/.
