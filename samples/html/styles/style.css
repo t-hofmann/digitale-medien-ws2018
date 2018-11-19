@@ -1,0 +1,29 @@
+html {
+    background-color: linen;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(22, 22, 100);
+    /* font-family: serif; */
+}
+
+tr:nth-of-type(odd) {
+    background-color: lightgrey;
+}
+
+tr:nth-of-type(even) {
+    background-color: grey;
+}
+
+a:hover {
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:visited {
+    color: orangered;
+}
