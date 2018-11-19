@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1236794957182" ID="Freemind_Link_56872819" MODIFIED="1542045221812" TEXT="Linux/Ubuntu">
+<node CREATED="1236794957182" ID="Freemind_Link_56872819" MODIFIED="1542382388488" TEXT="Linux/Ubuntu">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -72,7 +72,7 @@
 <node CREATED="1236795928677" ID="Freemind_Link_1861983520" LINK="https://en.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions" MODIFIED="1541757076629" POSITION="left" TEXT="perl compatible regular expressions (PCRE)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1236797067418" ID="Freemind_Link_289779817" MODIFIED="1237044992515" POSITION="left" TEXT="control structures">
+<node CREATED="1236797067418" FOLDED="true" ID="Freemind_Link_289779817" MODIFIED="1542382526172" POSITION="left" TEXT="control structures">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1236797074246" ID="Freemind_Link_131086825" MODIFIED="1270815794468" TEXT="for">
 <node COLOR="#999999" CREATED="1237045916296" ID="Freemind_Link_1423573957" MODIFIED="1237046085296" TEXT="for i in *; do echo $i; done">
@@ -86,7 +86,7 @@
 </node>
 <node CREATED="1252502617000" ID="Freemind_Link_1861353917" MODIFIED="1541754270153" POSITION="right" TEXT="commandline tools">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1236795116762" ID="Freemind_Link_657381332" MODIFIED="1541754761395" TEXT="text-editors">
+<node CREATED="1236795116762" FOLDED="true" ID="Freemind_Link_657381332" MODIFIED="1542382440210" TEXT="text-editors">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#ff0000" CREATED="1236795121528" ID="Freemind_Link_527336866" MODIFIED="1542045580627" TEXT="vi bzw. vim">
 <richcontent TYPE="NOTE"><html>
@@ -140,13 +140,17 @@
       - Navigation mittels Pfeiltasten (oder h, j, k, l)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1542045661486" ID="ID_449327609" LINK="https://www.openvim.com/" MODIFIED="1542045670371" TEXT="Tutorial"/>
 </node>
 <node CREATED="1236795123340" ID="Freemind_Link_944607721" MODIFIED="1236795127231" TEXT="emacs"/>
 <node COLOR="#ff0000" CREATED="1236795502033" ID="Freemind_Link_359929653" MODIFIED="1541755416569" TEXT="sed">
 <node COLOR="#999999" CREATED="1237044823109" ID="Freemind_Link_771123727" MODIFIED="1237044830656" TEXT="stream editor">
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1542382403685" ID="ID_1755576785" MODIFIED="1542382405715" TEXT="cut">
+<node COLOR="#999999" CREATED="1542382411056" ID="ID_238494423" MODIFIED="1542382427271" TEXT="cut columns">
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -295,7 +299,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1237472589734" ID="Freemind_Link_478090174" MODIFIED="1541754856505" TEXT="help">
+<node CREATED="1237472589734" FOLDED="true" ID="Freemind_Link_478090174" MODIFIED="1542382548176" TEXT="help">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#ff0000" CREATED="1236795102699" ID="Freemind_Link_878986820" MODIFIED="1541755702059" TEXT="man">
 <font NAME="SansSerif" SIZE="12"/>
@@ -451,7 +455,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1237478667296" ID="Freemind_Link_371406660" MODIFIED="1541756259616" TEXT="utilities">
+<node CREATED="1237478667296" FOLDED="true" ID="Freemind_Link_371406660" MODIFIED="1542382567337" TEXT="utilities">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#ff0000" CREATED="1541754733538" ID="ID_1017121873" MODIFIED="1541755682619" TEXT="echo">
 <node COLOR="#999999" CREATED="1541754736905" ID="ID_1719575799" MODIFIED="1541754751891" TEXT="outputs a string">
@@ -519,8 +523,13 @@
 <node CREATED="1237153059578" ID="Freemind_Link_804961887" MODIFIED="1237153060890" TEXT="sshd"/>
 <node CREATED="1270815762937" ID="ID_1978738332" MODIFIED="1270815764109" TEXT="tomcat"/>
 </node>
-<node CREATED="1236797479749" ID="Freemind_Link_1571210015" MODIFIED="1237045854187" POSITION="left" TEXT="shortcuts">
+<node CREATED="1236797479749" FOLDED="true" ID="Freemind_Link_1571210015" MODIFIED="1542382520749" POSITION="left" TEXT="shortcuts">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1542382457335" ID="ID_1487488484" MODIFIED="1542382484274" TEXT="TABULATOR">
+<node COLOR="#999999" CREATED="1542382498350" ID="ID_601435314" MODIFIED="1542382514161" TEXT="autocompletion for the commandline">
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
 <node CREATED="1236797509937" ID="Freemind_Link_964975770" MODIFIED="1541756253877" TEXT="Arrow Up">
 <node COLOR="#999999" CREATED="1237472856875" ID="Freemind_Link_63312918" MODIFIED="1237472876000" TEXT="scroll through last executed commands">
 <font NAME="SansSerif" SIZE="10"/>
@@ -566,7 +575,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node CREATED="1541756350146" ID="ID_438115091" MODIFIED="1541756355430" TEXT="STRG-R">
+<node CREATED="1541756350146" ID="ID_438115091" MODIFIED="1542382478943" TEXT="STRG-R">
 <node COLOR="#999999" CREATED="1541756356867" ID="ID_771631035" MODIFIED="1541756366963" TEXT="reverse search through command history">
 <font NAME="SansSerif" SIZE="10"/>
 </node>

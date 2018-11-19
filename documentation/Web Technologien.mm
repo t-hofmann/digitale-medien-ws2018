@@ -1,21 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1542120050540" ID="ID_1428184220" MODIFIED="1542120844053" TEXT="Web Technologien">
-<node CREATED="1542124173787" ID="ID_1002983073" LINK="https://de.wikipedia.org/wiki/Geschichte_des_Internets" MODIFIED="1542214084675" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Geschichte
-    </p>
-    <p>
-      des Internet
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1542124765660" ID="ID_1688313019" LINK="https://de.wikipedia.org/wiki/Chronologie_des_Internets" MODIFIED="1542214087283" TEXT="Chronologie">
+<node CREATED="1542124765660" FOLDED="true" ID="ID_1688313019" LINK="https://de.wikipedia.org/wiki/Chronologie_des_Internets" MODIFIED="1542382270308" POSITION="right" TEXT="Chronologie des Internet">
 <node CREATED="1542124994013" ID="ID_78144063" MODIFIED="1542214110541" TEXT="1945">
 <node CREATED="1542125000026" ID="ID_1863243835" LINK="https://de.wikipedia.org/wiki/Vannevar_Bush" MODIFIED="1542125084751" TEXT="Vannevar Bush &quot;As we may think&quot; (Essay)">
 <richcontent TYPE="NOTE"><html>
@@ -147,7 +133,6 @@
 <node CREATED="1542126625316" ID="ID_1834940240" MODIFIED="1542126640032" TEXT="Internet: 6 Mio. Knoten"/>
 </node>
 </node>
-</node>
 <node CREATED="1542121922901" ID="ID_1382674499" LINK="https://de.wikipedia.org/wiki/Internetprotokollfamilie" MODIFIED="1542184796043" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -165,7 +150,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1542124224914" ID="ID_1301713377" MODIFIED="1542187727370" TEXT="Schichten">
+<node CREATED="1542124224914" FOLDED="true" ID="ID_1301713377" MODIFIED="1542382285274" TEXT="Schichten">
 <node CREATED="1542122014187" ID="ID_441555610" MODIFIED="1542187728618" TEXT="Anwendungen">
 <node CREATED="1542120589328" ID="ID_1636026450" LINK="https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol" MODIFIED="1542121738550" TEXT="HTTP"/>
 <node CREATED="1542120592775" ID="ID_1845353471" LINK="https://de.wikipedia.org/wiki/Domain_Name_System" MODIFIED="1542121719178" TEXT="DNS"/>
@@ -211,7 +196,7 @@
 </node>
 </node>
 <node CREATED="1542120509106" ID="ID_1134794035" MODIFIED="1542187760379" POSITION="right" TEXT="WWW-Standards">
-<node CREATED="1542120512154" ID="ID_618641968" LINK="https://de.wikipedia.org/wiki/Hypertext_Markup_Language" MODIFIED="1542217379417" TEXT="HTML">
+<node CREATED="1542120512154" FOLDED="true" ID="ID_618641968" LINK="https://de.wikipedia.org/wiki/Hypertext_Markup_Language" MODIFIED="1542382366779" TEXT="HTML">
 <node CREATED="1542128920594" ID="ID_1107821589" LINK="https://de.wikipedia.org/wiki/Hypertext_Markup_Language#Syntax" MODIFIED="1542128945821" TEXT="Syntax"/>
 <node CREATED="1542128924873" ID="ID_1944496706" LINK="https://de.wikipedia.org/wiki/Hypertext_Markup_Language#HTML-Struktur" MODIFIED="1542128937230" TEXT="Struktur"/>
 <node CREATED="1542129029687" ID="ID_151069668" LINK="https://de.wikipedia.org/wiki/HTML5" MODIFIED="1542129035080" TEXT="HTML5"/>
@@ -221,12 +206,12 @@
 <node CREATED="1542134343070" ID="ID_1137407884" MODIFIED="1542134348546" TEXT="Selektoren"/>
 </node>
 <node CREATED="1542120516833" ID="ID_780177136" MODIFIED="1542120520526" TEXT="Javascript"/>
-<node CREATED="1542189551330" ID="ID_256283359" LINK="https://en.wikipedia.org/wiki/Http" MODIFIED="1542217376614" TEXT="HTTP">
+<node CREATED="1542189551330" FOLDED="true" ID="ID_256283359" LINK="https://en.wikipedia.org/wiki/Http" MODIFIED="1542382372692" TEXT="HTTP">
 <node CREATED="1542189374286" ID="ID_1467159612" LINK="https://tools.ietf.org/html/rfc2068" MODIFIED="1542189616140" TEXT="HTTP/1.1 (RFC 2068)"/>
 <node CREATED="1542189367383" ID="ID_705006159" LINK="https://tools.ietf.org/html/rfc7540" MODIFIED="1542189622156" TEXT="HTTP/2 (RFC 7540)"/>
 </node>
 </node>
-<node CREATED="1542120454547" ID="ID_665864130" MODIFIED="1542215791621" POSITION="right">
+<node CREATED="1542120454547" FOLDED="true" ID="ID_665864130" MODIFIED="1542382374715" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -251,8 +236,7 @@
       RFCs
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1542120484570" ID="ID_130867825" LINK="https://de.wikipedia.org/wiki/World_Wide_Web_Consortium" MODIFIED="1542216784058" TEXT="w3c - World Wide Web Consortium"/>
 <node CREATED="1542126666755" ID="ID_1218399261" LINK="https://de.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers" MODIFIED="1542215908160" TEXT="ICANN - Internet Corporation for Assigned Names and Numbers">
